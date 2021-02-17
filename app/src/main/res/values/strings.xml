@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferenceApp</string>
+    <string name="register">Register</string>
+    <string name="full_name">Enter Full Name</string>
+    <string name="email">Enter email address</string>
+    <string name="save">Save</string>
+    <string name="welcome">Welcome</string>
+    <string name="fullName">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="logout">Log Out</string>
+</resources>
